@@ -21,7 +21,7 @@ void reverseStr(string& str)
 // Driver program
 int main()
 {
-	string str = "Atchuta_RAM_CS086";
+	string str = "Atharva_PES2UG21CS104";
 	reverseStr(str);
 	cout << str;
 	return 0;
